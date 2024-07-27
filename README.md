@@ -10,11 +10,15 @@
 - Willing to contribute more and more in **Open Source Projects**
 - 📫 How to reach me **sanvis0184@gmail.com**
 
+<br><br>
+
 # Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sanvi-singh-7123b9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanvi singh" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sanvii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sanvii._" height="30" width="40" /></a>
 </p>
+
+<br><br>
 
 # Languages and Tools:
 <p align="left"> 
@@ -28,11 +32,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
-
+<br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanvi1803&show_icons=true&locale=en&layout=compact" alt="sanvi1803" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanvi1803&show_icons=true&locale=en" alt="sanvi1803" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanvi1803&show_icons=true&locale=en" alt="sanvi1803" /></p>
+
+<br>
 
 # Contributions:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanvi1803&" alt="sanvi1803" /></p>
