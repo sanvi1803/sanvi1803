@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,WebDev**
 - Willing to contribute more and more in **Open Source Projects**
 - 📫 How to reach me **sanvis0184@gmail.com**
 
